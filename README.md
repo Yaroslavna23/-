@@ -1,4 +1,4 @@
-# Simple Number Converter Service RELEASE 1.0.0
+# Simple Number Converter Service DEV
 
 Сервис с поддержкой веб-формы и RESTful API. Позволяет конвертировать числа из одной системы счисления в другую.
 
